@@ -1,0 +1,36 @@
+.mb-4{
+    margin-bottom: 4px;
+}
+.mb-8{
+    margin-bottom: 8px;
+}
+
+.mb-10{
+    margin-bottom:10px;
+}
+.mb-15{
+    margin-bottom: 15px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.float{
+    float: left;
+}
+.text-upper{
+    text-transform: uppercase;
+}
+.text-capitilize{
+    text-transform: capitalize;
+}
+.overflow{
+    overflow: hidden;
+}
+.ul-list{
+    list-style: none;
+}
+
+
+
+
+

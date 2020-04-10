@@ -1,0 +1,22 @@
+
+.card-body-desc{
+    color: blue;
+    font-size: 18px;
+    font-weight: 700;
+   
+}
+.card-body-title{
+    font-size: 16px;
+    color: blue;
+    font-weight: 700;
+}
+.card-body{
+    border: 2px solid springgreen;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+/* .container i{
+    color: blue;
+    background-color: brown;
+} */
